@@ -1,0 +1,28 @@
+.w-100{
+    width: 400px;
+    height: 100px;
+    z-index:1;
+    padding: 10px;
+}
+.rounded{
+    z-index:-1;
+}
+.up{
+    border: none;
+
+    padding: 10px;
+    outline: none;
+    border-bottom: 2px rgb(180, 180, 180) solid;
+    /* width: 300px; */
+}
+.btn{
+background: green;
+border-radius: 20px;
+color: ivory;
+}
+span{
+    color: red;
+    /* margin-left: 30px; */
+    text-align: center
+}
+
